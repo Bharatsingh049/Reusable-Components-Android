@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Reusable components</string>
+    <string name="select">select</string>
+    <string name="click_here_to_select_images">Click here to select Images</string>
+    <string name="select_more">Select More</string>
+    <string name="selected">Selected</string>
+    <string name="show_item">ShowItem</string>
+    <string name="multiple_videos">Multiple Videos</string>
+    <string name="multiple_images">Multiple Images</string>
+    <string name="video">video</string>
+    <string name="image">Image</string>
+    <string name="select_both_images_and_videos">Select Both Images And Videos</string>
+    <string name="oval_cropped_image">Oval Cropped Image</string>
+    <string name="rectangle_cropped_image">Rectangle Cropped Image</string>
+    <string name="version_placeholder" translatable="false">Version: %s %d (%s)</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="notification_permission">Notification Permission</string>
+    <string name="multiple_permissions">Multiple Permissions</string>
+    <string name="all_storage_permission">Manage All Files Permission</string>
+    <string name="shimmer_loader">Shimmer Loader</string>
+    <string name="circular_loader">Circular Loader</string>
+    <string name="dots_loader">Dots Loader</string>
+    <string name="pulse_loader">Pulse Loader</string>
+    <string name="circular_spinner">Circular Spinner</string>
+    <string name="horizontal_progressbar">Horizontal ProgressBar</string>
+    <string name="ripple_loader">Ripple Loader</string>
+    <string name="horizontal_percent_progressbar">Horizontal Percent ProgressBar</string>
+    <string name="dots_fady_loader">Dots Fady Loader</string>
+    <string name="dots_circular_loader">Dots Circular Loader</string>
+    <string name="dots_scale_loader">Dots Scale Loader</string>
+    <string name="rectangular_spinner">Rectangular Spinner</string>
+    <string name="none">none</string>
+    <string name="swipe_refresh">Swipe Refresh</string>
+</resources>
